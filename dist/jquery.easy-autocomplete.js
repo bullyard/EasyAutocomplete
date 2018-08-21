@@ -1141,7 +1141,7 @@ var EasyAutocomplete = (function(scope) {
 							         });
 
 										$item.find(" > div")
-											.on("mouseup touchend", function() {
+											.on("mouseup click", function() {
 
 												config.set('blurDenier', true);
 

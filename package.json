@@ -18,10 +18,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/pawelczak/EasyAutocomplete.git"
+    "url": "git://github.com/bullyard/EasyAutocomplete.git"
   },
   "bugs": {
-    "url": "https://github.com/pawelczak/EasyAutocomplete/issues"
+    "url": "https://github.com/bullyard/EasyAutocomplete/issues"
   },
   "license": "MIT",
   "scripts": {
